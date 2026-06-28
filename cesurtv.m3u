@@ -33,3 +33,5 @@ https://radio-trtvoteast.medya.trt.com.tr/master.m3u8
 https://moondigitaledge2.radyotvonline.net/radyod/playlist.m3u8
 #EXTINF:-1 tvg-id="TRTVotWest.tr@SD" tvg-name="TRT Vot West" group-title="Canlı Radyolar" tvg-logo="https://cdn-i.pr.trt.com.tr/trtdinle//w480/h480/q70//w480/h480/q70/12467515.jpeg", TRT VOT West
 https://radio-trtvotwest.medya.trt.com.tr/master.m3u8
+#EXTINF-1 tvg-id="TLC.tr@SD" tvg-name="TLC" group-title="Belgesel" tvg-logo="https://assets.stickpng.com/images/622f4615ae7f8f3715381b48.png", TLC
+https://yayin2.canlitv.fun/live/tlc.stream/playlist.m3u8?hash=9c7db3210ef53d8aadfe8a5a0273360a
