@@ -1,0 +1,35 @@
+#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_TR1.xml.gz"
+#EXTINF:-1 tvg-id="TV8.tr@HD" tvg-name="TV8" group-title="Canlı TV" tvg-logo="https://epg.pw/media/images/epg/2025/07/08/20250708021940217345_91.png", TV8 (1080p)
+https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8?&sid=8j7830bxmsls&app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
+#EXTINF:-1 tvg-id="TV85.tr@HD" tvg-name="TV85" group-title="Canlı TV" tvg-logo="https://epg.pw/media/images/epg/2025/07/08/20250708022836872847_21.png", TV85 HD
+https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?&sid=8j7aa951o3tq&app=bf58ab52-4865-4c81-b223-26b41009801e&ce=3
+#EXTINF:-1 tvg-id="KanalD.tr@HD" tvg-name="Kanal D" group-title="Canlı TV" tvg-logo="https://turkey.mom-rsf.org/uploads/tx_lfrogmom/media/240-101_import.png", Kanal D HD
+https://demiroren.daioncdn.net/kanald/kanald_1080p.m3u8?&sid=8j7cmev5uozt&app=da2109ea-5dfe-4107-89ab-23593336ed61&ce=3
+#EXTINF:-1 tvg-id="ATV.tr@HD" tvg-name="ATV" group-title="Canlı TV" tvg-logo="https://iatv.tmgrup.com.tr/site/v2/i/atv-logo.png", ATV Full HD 
+https://trkvz.daioncdn.net/atv/atv_1080p.m3u8?e=1782671916&st=ZeraAf2nhrzuyTyabDJnGg&sid=8jadi8y1fu39&app=d5eb593f-39d9-4b01-9cfd-4748e8332cf0&ce=3
+#EXTINF:-1 tvg-id="SHOW.tr@HD" tvg-name="Show TV" group-title="Canlı TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/archive/f/f1/20200829232439%21Logo_of_Show_TV.png", Show TV HD
+https://ciner.daioncdn.net/showtv/showtv_1080p.m3u8?ex=1664766175&st=RBzhSuGauna0OGld-DJUVA&tv=1&sid=8j7domm3b14b&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558&ce=3
+#EXTINF:-1 tvg-id="TabiiTV.tr@SD" tvg-name="Tabii TV" group-title="Canlı TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Trt-tabii-logo.png", Tabii TV
+https://ceokzokgtd.erbvr.com/tabiitv/tabiitv_360p.m3u8?sid=-fGWFhtBFEWsv9NgOgz2hQ&bvr_flags=10&bvr_ch=tabiitv&bvr_bw=500000
+#EXTINF:-1 tvg-id="CartoonNetwork.tr@SD" tvg-name="Cartoon Network Türkiye" group-title="Canlı TV" tvg-logo="https://epg.pw/media/images/epg/2025/02/12/20250212042346004608_43.png", Cartoon Network Türkiye 
+https://yayin2.canlitv.fun/live/cartoon-network.stream/playlist.m3u8?hash=f48eaa676723d3069b7c96f7b9fad4f3
+#EXTINF:-1 tvg-id="MinikaCocuk.tr@HD" tvg-name="Minika Çocuk" group-title="Canlı TV" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2021/01/MinikaCocuklogo.png", Minika Çocuk HD
+https://trkvz.daioncdn.net/minikago_cocuk/minikago_cocuk_720p.m3u8?e=1782671387&st=9Ee2lXBkWqXfdt8rXJQWGQ&sid=8jacpnb4ptiz&app=297aee61-13da-4585-b5a1-4f9c4c81f15a&ce=3
+#EXTINF:-1 tvg-id="MinikaGo.tr@HD" tvg-name="Minika GO" group-title="Canlı TV" tvg-logo="https://i.tmgrup.com.tr/mnka/go/site/Version1/i/logo.png", Minika GO ® (720p)
+https://trkvz.daioncdn.net/minikago/minikago_720p.m3u8?e=1782671429&st=vAKnd0kcU_mo1mNuGyNyzA&sid=8jacrvxr86j6&app=1a0fa873-c3df-4874-8182-baec3fcf4814&ce=3
+#EXTINF:-1 tvg-id="FilmScreen.tr@SD" tvg-name="Film Screen" group-title="Canlı TV" tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20260408111079.png", Film Screen 
+https://edge-e3.evrideo.tv/f2dcbecf-5af0-47db-a82e-032112050a23_1000027346_HLS/manifest.m3u8
+#EXTINF:-1 tvg-id="A2.tr@SD" tvg-name="a2" group-title="Canlı TV" tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20250801837289.png", a2 Full HD 
+https://trkvz.daioncdn.net/a2tv/a2tv_1080p.m3u8?e=1782671329&st=JPPjqCi95uuA6wjSCiszww&sid=8jacmshjomzo&app=59363a60-be96-4f73-9eff-355d0ff2c758&ce=3
+#EXTINF:-1 tvg-id="tv2.tr@HD" tvg-name="tv2" group-title="Canlı TV" tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20260101999689.png", tv2 
+https://demiroren.daioncdn.net/teve2/teve2_1080p.m3u8?&sid=8j87c9hqccbw&app=6aab838a-437e-4a1b-bbd0-e30f79cdbbbd&ce=3
+#EXTINF:-1 tvg-id="SaglıkChannel.tr@HD" tvg-name="Sağlık Channel" tvg-logo="https://images.seeklogo.com/logo-png/24/2/turkiye-cumhuriyeti-saglik-bakanligi-logo-png_seeklogo-240871.png", Sağlık Channel 
+https://live.euromediacenter.com/saglikchannel/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="TRT1.tr@4K" tvg-name="TRT 1 4K" tvg-logo="https://images.seeklogo.com/logo-png/26/2/trt-1-logo-png_seeklogo-260967.png", TRT 1 4K
+https://trt.daioncdn.net/trt-1/master_1440p.m3u8?&sid=8j8ktfkplx6h&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
+#EXTINF:-1 tvg-id="TRTVotEast.tr@SD" tvg-name="TRT VOT East" group-title="Canlı Radyolar" tvg-logo="https://cdn-i.pr.trt.com.tr/trtdinle//w480/h480/q70//w480/h480/q70/12467523.jpeg", TRT VOT East 
+https://radio-trtvoteast.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="RadyoD.tr@SD" tvg-name="Radyo D" group-title="Canlı Radyolar" tvg-logo="https://turkey.mom-rsf.org/uploads/tx_lfrogmom/media/246-101_import.png", Radyo D 
+https://moondigitaledge2.radyotvonline.net/radyod/playlist.m3u8
+#EXTINF:-1 tvg-id="TRTVotWest.tr@SD" tvg-name="TRT Vot West" group-title="Canlı Radyolar" tvg-logo="https://cdn-i.pr.trt.com.tr/trtdinle//w480/h480/q70//w480/h480/q70/12467515.jpeg", TRT VOT West
+https://radio-trtvotwest.medya.trt.com.tr/master.m3u8
