@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="RadioRespublica.tr@SD" tvg-name="Radio Republica" group-title="Asya Radyoları" tvg-logo="https://yoda.az/logos/aztvradio.png", Radio Republica
+https://str.yodacdn.net/radio_respublica/index.m3u8?token=eyJpcCI6Ijg1LjEzMi4yNy4xODIiLCJ1YSI6Ik1vemlsbGEvNS4wIChpUGhvbmU7IENQVSBpUGhvbmUgT1MgMThfNyBsaWtlIE1hYyBPUyBYKSBBcHBsZVdlYktpdC82MDUuMS4xNSAoS0hUTUwsIGxpa2UgR2Vja28pIFZlcnNpb24vMTguNy42IE1vYmlsZS8xNSIsImV4cCI6MTc4MjQwNjY1MiwianRpIjoiYzIwZTgxMTdkNGQyMjM2NSJ9.sjQiNSaqGUBR7iyHI/hsjLQl5Y6izz6id8SiNQxryq0=
+#EXTINF:-1 tvg-id="ITVRadio.tr@SD" tvg-name="ITV Radio" group-title="Asya Radyoları" tvg-logo="https://itv.az/assets/images/itv-logo.png", ITV Radio AZ
+https://stream.itv.az/rtmp:/radio/playlist.m3u8
+#EXTINF:-1 tvg-id="HenanNewsRadio.tr@SD" tvg-name="Henan News Radio (HNR)" tvg-logo="https://big-radio.net/es/uploads/posts/2024-04/henan-news-radio-001.webp" tvg-logo="https://big-radio.net/es/uploads/posts/2024-04/henan-news-radio-001.webp", Henan News Radio (HNR)
+https://stream.hndt.com/live/xinwen/playlist.m3u8
+#EXTINF:-1 tvg-id="FIP.tr@SD" tvg-name="FIP" group-title="Avrupa Radyoları" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FIP_logo_2021.svg", FIP franceradio
+https://stream.radiofrance.fr/fip/fip.m3u8?id=radiofrance
+#EXTINF:-1 tvg-id="BBCRadio1.tr@SD" tvg-name="BBC Radio 1" group-title="Avrupa Radyoları" tvg-logo="https://img2.pngindir.com/20180822/qwh/d73f00a841d28fe1b44161fc0e29a93f.webp", BBC Radio 1 
+http://as-hls-ww-live.akamaized.net/pool_01505109/live/ww/bbc_radio_one/bbc_radio_one.isml/bbc_radio_one-audio%3d96000.norewind.m3u8
+#EXTINF:-1 tvg-id="TRTVOTWorld.tr@SD" tvg-name="TRT VOT World" group-title="Yerli Radyolar" tvg-logo="https://cdn-i.pr.trt.com.tr/trtdinle//w480/h480/q70//w480/h480/q70/12474258_347-158-2684-2161.jpeg", TRT VOT World
+https://radio-trtvotworld.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="RadyoD104.tr@SD" tvg-name="Radyo D 104" group-title="Yerli Radyolar" tvg-logo="https://turkey.mom-gmr.org/uploads/_processed_/f/f/csm_246-101_import_636b9353b1.png", Radyo D 104 FM
+https://moondigitaledge2.radyotvonline.net/radyod/playlist.m3u8
+#EXTINF:-1 tvg-id="Ahaberradyo.tr@SD" tvg-name="A Haber Radyo" group-title="Yerli Radyolar" tvg-logo="https://i.tmgrup.com.tr/rt/site/v2/c/i/player-thumb/ahaber-radyo.png", A Haber Radyo
+https://trkvz-radyolar.ercdn.net/ahaberradyo/playlist.m3u8
+#EXTINF:-1 tvg-id="RadyoTurkuvaz.tr@SD" tvg-name="Turkuvaz Radyo" group-title="Yerli Radyolar" tvg-logo="https://i.tmgrup.com.tr/rt/site/v2/c/i/radio/radyo-turkuvaz.png", Radyo Turkuvaz
+https://trkvz-radyolar.ercdn.net/radyoturkuvaz/playlist.m3u8
