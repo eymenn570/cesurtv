@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="epg_ripper_TR3.xml.gz""epg_ripper_TR1.xml.gz"
+#EXTM3U x-tvg-url="epg_ripper_TR3.xml.gz" x-tvg-url="epg_ripper_TR1.xml.gz"
 #EXTINF:3702,TRT1
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="STAR TV.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/star-tv-tr.png" group-title="Ulusal", STAR TV HD
